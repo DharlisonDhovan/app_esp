@@ -27,13 +27,13 @@ Antes de executar a aplicação, certifique-se de ter as seguintes dependências
 1. Clone este repositório em sua máquina:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/DharlisonDhovan/app_esp.git
 ```
 
 2. Acesse o diretório do projeto:
 
 ```bash
-cd nome-do-repositorio
+cd app_esp
 ```
 
 3. Instale as dependências:
