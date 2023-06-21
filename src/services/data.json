@@ -1,0 +1,160 @@
+{
+    "arraydata": [
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:02:05.454Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:02:05.454Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:05.454Z"
+        },
+        {
+            "temperatura": 33,
+            "tempo": "2023-06-05T14:02:05.454Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:05.454Z"
+        },
+        {
+            "temperatura": 33,
+            "tempo": "2023-06-05T14:02:05.454Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:05.454Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.925Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.925Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 33,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 33,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:02:36.926Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 32,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        },
+        {
+            "temperatura": 31,
+            "tempo": "2023-06-05T14:03:45.143Z"
+        }
+    ],
+    "lastData": {
+        "temperatura": 31,
+        "tempo": "2023-06-05T14:03:45.143Z"
+    }
+}

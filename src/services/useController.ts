@@ -1,22 +1,14 @@
 import axios from "axios";
-export async function OnController() {
+import { ToastAndroid } from "react-native";
+
+
+export async function ControllerEsp(param:boolean) {
   try {
     const response = await axios.post(
-      `https://trab-madson.vercel.app/ligar-sistema/start=1`
+      `https://temperature-madson-2456fab80a64.herokuapp.com/status-system`,
+      { statusSystem: param }
     );
-    return(JSON.stringify(response.data.message))
-  } catch (erro) {
-    console.log(erro);
-  }
-}
-export async function OffController() {
-  try {
-    const response = await axios.post(
-      `https://trab-madson.vercel.app/desligar-sistema/stop=0
-        `
-        
-    );
-    return(JSON.stringify(response.data.message))
+    return ToastAndroid.show(`${response.data.status?'Sistema Ligado':'Sistema desligado'}`, ToastAndroid.LONG);
   } catch (erro) {
     console.log(erro);
   }
