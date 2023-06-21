@@ -63,7 +63,7 @@ export default function EspController() {
       const lastTemperatureValues = temperatures
         .slice(-5)
         .map((temp: Temperature) => temp.temperature);
-      setLastTemperatures(lastTemperatureValues);
+      setLastTemperatures([...lastTemperatureValues, averageTemperature]);
       const lastDateValues = temperatures.slice(-4).map((temp: Temperature) => {
         const date = new Date(temp.date);
         return format(date, "dd/MM/yy HH:mm:ss");
